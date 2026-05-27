@@ -1,4 +1,4 @@
-# TP Localisation Android — GPS + PHP + MySQL + Google Maps
+Localisation Android — GPS + PHP + MySQL + Google Maps
 
 Application Android de géolocalisation en temps réel :
 l'appareil envoie ses coordonnées GPS à un serveur PHP/MySQL via Volley,
